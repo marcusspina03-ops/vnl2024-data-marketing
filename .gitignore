@@ -1,0 +1,16 @@
+# Credentials - NE JAMAIS COMMITER
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
