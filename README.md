@@ -9,7 +9,7 @@
 La Volleyball Nations League (VNL) 2024 réunit les 16 meilleures nations mondiales.  
 Dans un contexte de scouting sportif et de sponsoring, **comment identifier objectivement les joueurs les plus performants** pour orienter des décisions de recrutement ou de partenariat ?
 
-Ce projet construit un pipeline data complet — de la base SQL au dashboard interactif — pour répondre à cette question via un algorithme de scoring inspiré de la logique RFM marketing.
+Ce projet construit un pipeline data complet de la base SQL au dashboard interactif pour répondre à cette question via un algorithme de scoring inspiré de la logique RFM marketing.
 
 ---
 
@@ -117,10 +117,10 @@ Puis ouvrir **http://127.0.0.1:8050** dans le navigateur.
 
 Le pipeline `pipeline.py` réalise 4 étapes :
 
-**1. Chargement** — Connexion MySQL via `.env`, extraction avec Pandas  
-**2. Enrichissement API** — Appel à [REST Countries API](https://restcountries.com) pour chaque équipe : population et drapeau  
-**3. Algorithme PPS** — Calcul du Player Performance Score  
-**4. Export** — Écriture des résultats dans la table `player_scores`
+**1. Chargement**  Connexion MySQL via `.env`, extraction avec Pandas  
+**2. Enrichissement API**  Appel à [REST Countries API](https://restcountries.com) pour chaque équipe : population et drapeau  
+**3. Algorithme PPS**  Calcul du Player Performance Score  
+**4. Export**  Écriture des résultats dans la table `player_scores`
 
 ---
 
