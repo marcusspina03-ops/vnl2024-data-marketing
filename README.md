@@ -171,7 +171,7 @@ Le dashboard Plotly Dash permet d'explorer les performances avec :
 
 ## 📦 Sources des données
 
-- **Dataset** : [VNL 2024 Men Statistics — Kaggle](https://www.kaggle.com)
+- **Dataset** : [VNL 2024 Men Statistics — Kaggle](https://www.kaggle.com/datasets/jonathanpmoyer/vnl-2024-mens-stats)
 - **API** : [REST Countries](https://restcountries.com/v3.1/alpha/{code}) — population et drapeaux
 
 ---
