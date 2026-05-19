@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Problématique métier
+## Problématique métier
 
 La Volleyball Nations League (VNL) 2024 réunit les 16 meilleures nations mondiales.  
 Dans un contexte de scouting sportif et de sponsoring, **comment identifier objectivement les joueurs les plus performants** pour orienter des décisions de recrutement ou de partenariat ?
