@@ -1,0 +1,17 @@
+code,country,continent,population,flag_url
+ARG,Argentina,South America,,https://flagcdn.com/w320/ar.png
+BRA,Brazil,South America,,https://flagcdn.com/w320/br.png
+BUL,Bulgaria,Europe,,https://flagcdn.com/w320/bg.png
+CAN,Canada,North America,,https://flagcdn.com/w320/ca.png
+CUB,Cuba,North America,,https://flagcdn.com/w320/cu.png
+FRA,France,Europe,,https://flagcdn.com/w320/fr.png
+GER,Germany,Europe,,https://flagcdn.com/w320/de.png
+IRI,Iran,Asia,,https://flagcdn.com/w320/ir.png
+ITA,Italy,Europe,,https://flagcdn.com/w320/it.png
+JPN,Japan,Asia,,https://flagcdn.com/w320/jp.png
+NED,Netherlands,Europe,,https://flagcdn.com/w320/nl.png
+POL,Poland,Europe,,https://flagcdn.com/w320/pl.png
+SLO,Slovenia,Europe,,https://flagcdn.com/w320/si.png
+SRB,Serbia,Europe,,https://flagcdn.com/w320/rs.png
+TUR,Turkey,Asia,,https://flagcdn.com/w320/tr.png
+USA,United States,North America,,https://flagcdn.com/w320/us.png
