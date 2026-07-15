@@ -13,4 +13,4 @@ venv/
 Thumbs.db
 
 # VS Code
-.vscode/
+.vscode/plotly-cloud.toml
